@@ -22,6 +22,23 @@ In this module the user can cancel their name which is registered for the Book.
 ### SOFTWARE REQUIRMENTS:
 Star UML
 ### UML Diagrams:
+USECASE DIAGRAM:
+![image](https://github.com/HycinthD/Library-Management/assets/144870810/dfc280cc-fd24-4831-a3fb-631212711563)
+
+CLASS DIADRAM:
+![image](https://github.com/HycinthD/Library-Management/assets/144870810/1206a5dd-91d2-47d1-b512-fb62b5a67b7a)
+
+ACTIVITY DIAGRAM:
+![image](https://github.com/HycinthD/Library-Management/assets/144870810/af53ccb5-f322-4362-b7e9-96fe20208b51)
+
+SEQUENCE DIAGRAM:
+![image](https://github.com/HycinthD/Library-Management/assets/144870810/f7da2005-feca-4eec-8fc6-0a309c02af52)
+
+COMMUNICATION DIAGRAM:
+![image](https://github.com/HycinthD/Library-Management/assets/144870810/cfab7aa2-fd01-4c37-b5eb-27c61e8c955d)
+
+PACKAGE DIAGRAM:
+![image](https://github.com/HycinthD/Library-Management/assets/144870810/e2f0e308-8660-47ea-90c9-14092df2f6af)
 
 ### RESULT:
 Thus the Library management system project was executed and the output was verified.
